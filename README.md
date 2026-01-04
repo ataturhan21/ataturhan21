@@ -13,7 +13,7 @@
 - 🔗 You can view my resume and other related resources on my Linktree page: https://linktr.ee/ataturhan
 - 📫 You can reach me via ataturhan21@gmail.com.
 
-Let’s build the future of AI together!
+Let’s build the future of AI together! 🚀
 
 </div>
 
