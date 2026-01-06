@@ -4,7 +4,7 @@ readme_path = pathlib.Path("README.md")
 
 lines = readme_path.read_text(encoding="utf-8").splitlines()
 
-target_line = 15  # Python is 0-indexed; line 16 is index 15
+target_line = 44  # Python is 0-indexed; line 16 is index 15
 if target_line < len(lines):
     if lines[target_line].endswith("🚀"):
         # Remove rocket
