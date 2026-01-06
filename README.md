@@ -4,16 +4,45 @@
         
 10x AI Engineer and Manager with an exceptionally high level of ownership and agency, consistently driving projects from conception to successful delivery. Demonstrates strong technical leadership, strategic thinking, and accountability, ensuring measurable impact, high execution standards, and sustained success across complex, cross-functional initiatives.
 
+
+
+I was originally planning to become an aesthetic surgeon in the United States, but I realized that artificial intelligence would soon reshape every industry. So, I created a five-step plan to master and ultimately lead in the AI field:
+
+1- Retake the university entrance exam, score in the top 0.01 percentile, and enroll in Turkey’s first Artificial Intelligence Engineering bachelor’s program as the highest-scoring student among all new entrants.
+
+2- Graduate with a perfect 4.0 GPA as valedictorian and establish the largest and most active engineering community at the university.
+
+3- Move to the United States to pursue a master’s degree in Computer Science and complete it with a perfect 4.0 GPA as the valedictorian.
+
+4- Join a major tech company and rise rapidly by demonstrating diverse skills; especially in leadership, problem-solving, and management.
+
+5- Found my own company and make a huge impact on the AI industry.
+
+As of now, the first four steps have been accomplished flawlessly, and I am fully focused on preparing for the final one.
+
+
+
+You can see some of my achievements here:
+
 - 🥇 #1 contributor to HP’s most popular open-source GitHub repository, AI Blueprints, driving continuous improvements in code quality, documentation, and the addition of new local AI projects.
-- 🚀 Expert in building scalable solutions and developing advanced models using Python, TensorFlow, PyTorch, Scikit-learn, LangChain, LangGraph and MLflow.
+
+- 🚀 Expert in building scalable AI solutions using Python, TensorFlow, PyTorch, Scikit-learn, HuggingFace, LangChain, LangGraph and MLflow. 
+
 - 🎓 Achieved a 4.0/4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Computer Science.
-- 💻 Solved ~1,500 LeetCode problems and achieved a top 1% global ranking in contests.
+
+- 💻 Solved over 1,400 LeetCode problems and achieved a top 1% global ranking in contests.
+
 - 📜 Earned 10+ skill certifications on HackerRank, 5 Microsoft Azure cloud certifications, and additional notable credentials.
+
 - 🔧 Made ~5,000 contributions on GitHub.
-- 🔗 You can view my resume and other related resources on my Linktree page: https://linktr.ee/ataturhan
+
+- 🔗 You can view my resume and other related resources on my Linktree page: https://linktr.ee/ataturhan21
+
 - 📫 You can reach me via ataturhan21@gmail.com.
 
-Let’s build the future of AI together! 🚀
+
+
+Let’s build a perfect future for the whole world with the most powerful tools of all times, Artificial Intelligence and Natural Intelligence 🚀
 
 </div>
 
