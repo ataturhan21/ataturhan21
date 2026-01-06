@@ -8,15 +8,15 @@
 
 I was originally planning to become an aesthetic surgeon in the United States, but I realized that artificial intelligence would soon reshape every industry. So, I created a five-step plan to master and ultimately lead in the AI field:
 
-1- Retake the university entrance exam, score in the top 0.01 percentile, and enroll in Turkey’s first Artificial Intelligence Engineering bachelor’s program as the highest-scoring student among all new entrants.
+1. Retake the university entrance exam, score in the top 0.01 percentile, and enroll in Turkey’s first Artificial Intelligence Engineering bachelor’s program as the highest-scoring student among all new entrants.
 
-2- Graduate with a perfect 4.0 GPA as valedictorian and establish the largest and most active engineering community at the university.
+2. Graduate with a perfect 4.0 GPA as valedictorian and establish the largest and most active engineering community at the university.
 
-3- Move to the United States to pursue a master’s degree in Computer Science and complete it with a perfect 4.0 GPA as the valedictorian.
+3. Move to the United States to pursue a master’s degree in Computer Science and complete it with a perfect 4.0 GPA as the valedictorian.
 
-4- Join a major tech company and rise rapidly by demonstrating diverse skills; especially in leadership, problem-solving, and management.
+4. Join a major tech company and rise rapidly by demonstrating diverse skills; especially in leadership, problem-solving, and management.
 
-5- Found my own company and make a huge impact on the AI industry.
+5. Found my own company and make a huge impact on the AI industry.
 
 As of now, the first four steps have been accomplished flawlessly, and I am fully focused on preparing for the final one.
 
