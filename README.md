@@ -1,4 +1,4 @@
-![Header](./github-header-image.jpg)
+![Header]("./SolarityAI-CompanyBanner.png")
 
 <div style="font-size:5em;">
         
