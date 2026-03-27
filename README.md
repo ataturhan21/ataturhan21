@@ -42,7 +42,7 @@ You can see some of my achievements here:
 
 
 
-Let’s build a perfect future for the whole world with the most powerful tools of all times, Artificial Intelligence and Natural Intelligence
+Let’s build a perfect future for the whole world with the most powerful tools of all times, Artificial Intelligence and Natural Intelligence 🚀
 
 </div>
 
