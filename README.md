@@ -39,4 +39,4 @@ B.Sc. in Artificial Intelligence Engineering from **TOBB ETÜ** and M.S. in Comp
 For AI engineering collaborations, product partnerships, or Solarity AI inquiries, connect on [LinkedIn](https://www.linkedin.com/in/ataturhan21/) or [email me](mailto:ataturhan21@gmail.com).
 
 <!-- daily-rocket -->
-**Always Better.** 🚀
+**Always Better.**
