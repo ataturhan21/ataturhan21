@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
+  <title id="title">Build with intelligence. Lead with ownership.</title>
+  <desc id="description">A midnight-blue and gold banner for Ata Turhan's engineering profile.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101b2b"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c8a96b"/>
+      <stop offset="1" stop-color="#c8a96b" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="14" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="258" rx="13" fill="none" stroke="#303b49"/>
+  <path d="M55 46H1145" stroke="url(#accent)"/>
+  <g fill="none" stroke="#c8a96b">
+    <circle cx="1060" cy="158" r="142" opacity="0.13"/>
+    <circle cx="1060" cy="158" r="106" opacity="0.22"/>
+    <circle cx="1060" cy="158" r="70" opacity="0.4"/>
+    <path d="M954 158H1166M1060 52V244" opacity="0.3"/>
+    <circle cx="1060" cy="158" r="8" fill="#c8a96b" stroke="none"/>
+  </g>
+  <text x="55" y="125" fill="#f2f4f7" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5">Build with intelligence.</text>
+  <text x="55" y="194" fill="#c8a96b" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5">Lead with ownership.</text>
+</svg>
