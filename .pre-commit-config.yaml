@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: profile-footer-tests
+        name: Check profile footer behavior
+        entry: python -m unittest discover -s tests -v
+        language: python
+        pass_filenames: false
+        always_run: true

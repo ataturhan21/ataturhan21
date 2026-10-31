@@ -7,6 +7,7 @@ on:
     paths:
       - README.md
       - PROJECTS.md
+      - .pre-commit-config.yaml
       - .github/scripts/**
       - .github/workflows/profile-checks.yml
       - tests/**
