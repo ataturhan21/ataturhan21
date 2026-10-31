@@ -24,7 +24,7 @@ I build local AI systems and lead product development, from model integration an
 | **[Sigma Chatbot](https://github.com/ataturhan21/Sigma-Chatbot)** | University information chatbot using Streamlit, OpenAI, LangChain, and ChromaDB. A fork of the community’s [TOBB-GPT](https://github.com/TOBB-ETU-CS-Community/TOBB-GPT). |
 | **[Optimized CNN-TA](https://github.com/ataturhan21/Optimized-CNN-TA)** | Research comparing technical analysis, machine learning, and deep learning approaches to trading strategies. |
 
-More work: [all repositories](https://github.com/ataturhan21?tab=repositories) · [LeetCode solutions](https://github.com/ataturhan21/Leetcode-Solutions) · [Kaggle](https://www.kaggle.com/ataturhan)
+More work: [project guide](PROJECTS.md) · [all repositories](https://github.com/ataturhan21?tab=repositories) · [LeetCode solutions](https://github.com/ataturhan21/Leetcode-Solutions) · [Kaggle](https://www.kaggle.com/ataturhan)
 
 ## Technical focus
 
