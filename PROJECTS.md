@@ -19,7 +19,7 @@ Explore my public repositories by area. Each repository's README is the starting
 | [Image Captioner](https://github.com/ataturhan21/ImageCaptioner-ConvNeXt_Transformer) | ConvNeXt and Transformer image captioning in PyTorch |
 | [Kaggle Blueprints](https://github.com/ataturhan21/Kaggle-Blueprints) | Tabular machine learning notebook and utilities |
 | [Kaggle Blueprints: Time Series](https://github.com/ataturhan21/Kaggle-Blueprints-Time-Series) | Time-series project scaffold |
-| [Credit Risk](https://github.com/ataturhan21/Credit-Risk) | Credit-risk classification research and evaluation |
+| [Credit Risk](https://github.com/ataturhan21/Credit-Risk) | Survey-based risk regression and reproducible evaluation |
 | [Titanic Survival Prediction](https://github.com/ataturhan21/Titanic-Survival-Prediction) | Survival classification experiment |
 | [MNIST Digit Classification](https://github.com/ataturhan21/MNIST-Digit-Classification-PyTorch) | Handwritten digit classification with PyTorch |
 | [CIFAR-10 Image Classification](https://github.com/ataturhan21/Cifar10-Image-Classification) | Image classification and submission generation |
