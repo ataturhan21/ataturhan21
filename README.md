@@ -125,7 +125,7 @@ Algorithms, data structures, and contest practice. Browse my [LeetCode solutions
 </a>
 </p>
 
-[LeetCode](https://leetcode.com/u/ataturhan/) · [HackerRank](https://www.hackerrank.com/ataturhan) · [Kaggle](https://www.kaggle.com/ataturhan)
+[LeetCode](https://leetcode.com/u/ataturhan/) · [HackerRank](https://www.hackerrank.com/profile/ataturhan) · [Kaggle](https://www.kaggle.com/ataturhan)
 
 ## Background
 
