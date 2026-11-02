@@ -43,9 +43,9 @@ I build local AI systems and turn them into useful products. My work spans LLM d
 - **Delivery:** Linux, Docker, Git, GitHub Actions, automated testing, and performance evaluation.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,ts,react,postgres,docker,linux,git,githubactions&amp;perline=6&amp;theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,ts,react,postgres,docker,linux,git,githubactions&amp;perline=6&amp;theme=light">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,ts,react,postgres,docker,linux,git,githubactions&amp;perline=6&amp;theme=light" alt="Python, PyTorch, TensorFlow, scikit-learn, FastAPI, TypeScript, React, PostgreSQL, Docker, Linux, Git, and GitHub Actions" width="320">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Ctensorflow%2Csklearn%2Cfastapi%2Cts%2Creact%2Cpostgres%2Cdocker%2Clinux%2Cgit%2Cgithubactions&amp;perline=6&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Ctensorflow%2Csklearn%2Cfastapi%2Cts%2Creact%2Cpostgres%2Cdocker%2Clinux%2Cgit%2Cgithubactions&amp;perline=6&amp;theme=light">
+  <img src="https://skillicons.dev/icons?i=python%2Cpytorch%2Ctensorflow%2Csklearn%2Cfastapi%2Cts%2Creact%2Cpostgres%2Cdocker%2Clinux%2Cgit%2Cgithubactions&amp;perline=6&amp;theme=light" alt="Python, PyTorch, TensorFlow, scikit-learn, FastAPI, TypeScript, React, PostgreSQL, Docker, Linux, Git, and GitHub Actions" width="320">
 </picture>
 
 ## GitHub activity
@@ -102,9 +102,9 @@ Languages represented in my public repositories and commit history.
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=ataturhan21&amp;theme=darkhub&amp;title=Stars,Followers,Commits,PullRequest,Issues,Repositories&amp;no-bg=true&amp;no-frame=true&amp;row=2&amp;column=3&amp;margin-w=5&amp;margin-h=5">
-  <source media="(prefers-color-scheme: light)" srcset="https://trophy.ryglcloud.net/?username=ataturhan21&amp;theme=flat&amp;title=Stars,Followers,Commits,PullRequest,Issues,Repositories&amp;no-bg=true&amp;no-frame=true&amp;row=2&amp;column=3&amp;margin-w=5&amp;margin-h=5">
-  <img src="https://trophy.ryglcloud.net/?username=ataturhan21&amp;theme=flat&amp;title=Stars,Followers,Commits,PullRequest,Issues,Repositories&amp;no-bg=true&amp;no-frame=true&amp;row=2&amp;column=3&amp;margin-w=5&amp;margin-h=5" alt="GitHub trophies for stars, followers, commits, pull requests, issues, and repositories" width="420">
+  <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=ataturhan21&amp;theme=darkhub&amp;title=Stars%2CFollowers%2CCommits%2CPullRequest%2CIssues%2CRepositories&amp;no-bg=true&amp;no-frame=true&amp;row=2&amp;column=3&amp;margin-w=5&amp;margin-h=5">
+  <source media="(prefers-color-scheme: light)" srcset="https://trophy.ryglcloud.net/?username=ataturhan21&amp;theme=flat&amp;title=Stars%2CFollowers%2CCommits%2CPullRequest%2CIssues%2CRepositories&amp;no-bg=true&amp;no-frame=true&amp;row=2&amp;column=3&amp;margin-w=5&amp;margin-h=5">
+  <img src="https://trophy.ryglcloud.net/?username=ataturhan21&amp;theme=flat&amp;title=Stars%2CFollowers%2CCommits%2CPullRequest%2CIssues%2CRepositories&amp;no-bg=true&amp;no-frame=true&amp;row=2&amp;column=3&amp;margin-w=5&amp;margin-h=5" alt="GitHub trophies for stars, followers, commits, pull requests, issues, and repositories" width="420">
 </picture>
 </a>
 </p>
@@ -118,9 +118,9 @@ Algorithms, data structures, and contest practice. Browse my [LeetCode solutions
 <p align="center">
 <a href="https://leetcode.com/u/ataturhan/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/ataturhan?theme=dark&amp;colors=0d1117,30363d,e6edf3,9da7b3,c8a96b,3fb950,d29922,f85149&amp;font=Inter&amp;ext=contest&amp;animation=false&amp;border=0">
-  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/ataturhan?theme=light&amp;colors=ffffff,d0d7de,24292f,57606a,856323,1a7f37,9a6700,cf222e&amp;font=Inter&amp;ext=contest&amp;animation=false&amp;border=0">
-  <img src="https://leetcard.jacoblin.cool/ataturhan?theme=light&amp;colors=ffffff,d0d7de,24292f,57606a,856323,1a7f37,9a6700,cf222e&amp;font=Inter&amp;ext=contest&amp;animation=false&amp;border=0" alt="LeetCode solved-problem counts, contest rating, and contest history for ataturhan" width="500">
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/ataturhan?theme=dark&amp;colors=0d1117%2C30363d%2Ce6edf3%2C9da7b3%2Cc8a96b%2C3fb950%2Cd29922%2Cf85149&amp;font=Inter&amp;ext=contest&amp;animation=false&amp;border=0">
+  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/ataturhan?theme=light&amp;colors=ffffff%2Cd0d7de%2C24292f%2C57606a%2C856323%2C1a7f37%2C9a6700%2Ccf222e&amp;font=Inter&amp;ext=contest&amp;animation=false&amp;border=0">
+  <img src="https://leetcard.jacoblin.cool/ataturhan?theme=light&amp;colors=ffffff%2Cd0d7de%2C24292f%2C57606a%2C856323%2C1a7f37%2C9a6700%2Ccf222e&amp;font=Inter&amp;ext=contest&amp;animation=false&amp;border=0" alt="LeetCode solved-problem counts, contest rating, and contest history for ataturhan" width="500">
 </picture>
 </a>
 </p>
