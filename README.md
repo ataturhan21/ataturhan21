@@ -12,7 +12,7 @@ I build local AI systems and turn them into useful products. My work spans LLM d
 **[Solarity AI](https://solarityai.com/) · [LinkedIn](https://www.linkedin.com/in/ataturhan21/) · [Writing](https://medium.com/@ataturhan21) · [Email](mailto:ataturhan21@gmail.com)**
 
 <p>
-  <a href="https://github.com/ataturhan21?tab=followers"><img src="https://img.shields.io/github/followers/ataturhan21?label=Followers&amp;style=flat-square&amp;color=c8a96b&amp;labelColor=161b22&amp;logo=github" alt="GitHub followers"></a>
+  <a href="https://github.com/ataturhan21?tab=followers"><img src="https://img.shields.io/github/followers/ataturhan21?label=Followers&amp;style=flat-square&amp;color=856323&amp;logo=github" alt="GitHub followers"></a>
   <a href="https://github.com/ataturhan21"><img src="https://komarev.com/ghpvc/?username=ataturhan21&amp;label=Profile%20views&amp;style=flat-square&amp;color=856323" alt="Profile view counter"></a>
   <a href="https://github.com/ataturhan21/ataturhan21/actions/workflows/profile-checks.yml"><img src="https://github.com/ataturhan21/ataturhan21/actions/workflows/profile-checks.yml/badge.svg" alt="Profile checks workflow status"></a>
 </p>
