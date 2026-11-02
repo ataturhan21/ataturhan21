@@ -17,7 +17,7 @@ I build local AI systems and turn them into useful products. My work spans LLM d
   <a href="https://github.com/ataturhan21/ataturhan21/actions/workflows/profile-checks.yml"><img src="https://github.com/ataturhan21/ataturhan21/actions/workflows/profile-checks.yml/badge.svg" alt="Profile checks workflow status"></a>
 </p>
 
-[Projects](#selected-engineering-work) · [Stack](#technical-focus) · [GitHub activity](#github-activity) · [Problem solving](#problem-solving)
+[Projects](#user-content-selected-engineering-work) · [Stack](#user-content-technical-focus) · [GitHub activity](#user-content-github-activity) · [Problem solving](#user-content-problem-solving) · [Background](#user-content-background)
 
 ## What I'm building
 

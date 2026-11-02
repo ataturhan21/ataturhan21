@@ -77,6 +77,19 @@ class ProfileRenderingTests(unittest.TestCase):
                 with self.subTest(file=name, srcset=srcset[:60]):
                     self.assertNotIn(",", srcset)
 
+    def test_section_links_target_profile_page_anchors(self):
+        # The profile page only scrolls to the user-content- ids GitHub gives headings.
+        text = (ROOT / "README.md").read_text(encoding="utf-8")
+        headings = {
+            "user-content-" + re.sub(r"[^\w\- ]", "", heading.strip().lower()).replace(" ", "-")
+            for heading in re.findall(r"^#{1,6} (.+)$", text, re.MULTILINE)
+        }
+        links = re.findall(r'\]\(#([^)]*)\)|href="#([^"]*)"', text)
+        self.assertTrue(links)
+        for link in ("".join(groups) for groups in links):
+            with self.subTest(link=link):
+                self.assertIn(link, headings)
+
 
 if __name__ == "__main__":
     unittest.main()
