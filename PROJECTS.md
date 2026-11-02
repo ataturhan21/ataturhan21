@@ -9,7 +9,7 @@ Explore my public repositories by area. Each repository's README is the starting
 | [Aware Care](https://github.com/ataturhan21/HP-Edge-AI-Demo-Aware-Care) | Local AI healthcare navigation demonstration on HP ZGX |
 | [Delta ChatBot](https://github.com/ataturhan21/Delta-ChatBot) | Document chatbot |
 | [Sigma Chatbot](https://github.com/ataturhan21/Sigma-Chatbot) | University information chatbot; fork of TOBB-GPT |
-| [Omega-LC](https://github.com/ataturhan21/Omega-LC) | AI life-coaching prototype |
+| [Omega-LC](https://github.com/ataturhan21/Omega-LC) | AI life-coaching concept; not implemented yet |
 | [Signal Savant](https://github.com/ataturhan21/Signal_Savant) | Telegram-based market analysis |
 
 ## Machine learning and research
@@ -36,7 +36,7 @@ Explore my public repositories by area. Each repository's README is the starting
 
 | Repository | Focus |
 | --- | --- |
-| [DSA](https://github.com/ataturhan21/DSA) | Data structures and algorithms |
+| [DSA](https://github.com/ataturhan21/DSA) | Data structures and algorithms; fork of [CodeChefMUST/Algorithms](https://github.com/CodeChefMUST/Algorithms), which I contributed to |
 | [LeetCode Solutions](https://github.com/ataturhan21/Leetcode-Solutions) | Python, SQL, and JavaScript problem solutions |
 | [Bank Application](https://github.com/ataturhan21/Bank-Application) | Java banking application |
 | [Vita](https://github.com/ataturhan21/Vita) | Media and text toolbox |
@@ -48,9 +48,9 @@ Explore my public repositories by area. Each repository's README is the starting
 | Repository | Focus |
 | --- | --- |
 | [Personal website](https://github.com/ataturhan21/ata-turhan.github.io) | Portfolio website source |
-| [Community Website](https://github.com/ataturhan21/Community_Website) | Community website source |
+| [Community Website](https://github.com/ataturhan21/Community_Website) | Community website source; fork of the community's [Community_Website](https://github.com/TOBB-ETU-CS-Community/Community_Website) |
 | [News Scraping](https://github.com/ataturhan21/News-Scraping) | News collection and processing |
-| [Insta Bot](https://github.com/ataturhan21/Insta-Bot) | Instagram automation project |
+| [Insta Bot](https://github.com/ataturhan21/Insta-Bot) | Instagram automation project; fork of the community's [Social-Master](https://github.com/TOBB-ETU-CS-Community/Social-Master) |
 
 ## Forks and supporting repositories
 

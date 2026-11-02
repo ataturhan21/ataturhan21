@@ -12,12 +12,12 @@ I build local AI systems and turn them into useful products. My work spans LLM d
 **[Solarity AI](https://solarityai.com/) · [LinkedIn](https://www.linkedin.com/in/ataturhan21/) · [Writing](https://medium.com/@ataturhan21) · [Email](mailto:ataturhan21@gmail.com)**
 
 <p>
-  <a href="https://github.com/ataturhan21?tab=followers"><img src="https://img.shields.io/github/followers/ataturhan21?label=Followers&amp;style=flat-square&amp;color=c8a96b&amp;labelColor=161b22&amp;logo=github" alt="GitHub followers"></a>
+  <a href="https://github.com/ataturhan21?tab=followers"><img src="https://img.shields.io/github/followers/ataturhan21?label=Followers&amp;style=flat-square&amp;color=856323&amp;logo=github" alt="GitHub followers"></a>
   <a href="https://github.com/ataturhan21"><img src="https://komarev.com/ghpvc/?username=ataturhan21&amp;label=Profile%20views&amp;style=flat-square&amp;color=856323" alt="Profile view counter"></a>
   <a href="https://github.com/ataturhan21/ataturhan21/actions/workflows/profile-checks.yml"><img src="https://github.com/ataturhan21/ataturhan21/actions/workflows/profile-checks.yml/badge.svg" alt="Profile checks workflow status"></a>
 </p>
 
-[Projects](#selected-engineering-work) · [Stack](#technical-focus) · [GitHub activity](#github-activity) · [Problem solving](#problem-solving)
+[Projects](#user-content-selected-engineering-work) · [Stack](#user-content-technical-focus) · [GitHub activity](#user-content-github-activity) · [Problem solving](#user-content-problem-solving) · [Background](#user-content-background)
 
 ## What I'm building
 
@@ -43,9 +43,9 @@ I build local AI systems and turn them into useful products. My work spans LLM d
 - **Delivery:** Linux, Docker, Git, GitHub Actions, automated testing, and performance evaluation.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,ts,react,postgres,docker,linux,git,githubactions&amp;perline=6&amp;theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,ts,react,postgres,docker,linux,git,githubactions&amp;perline=6&amp;theme=light">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,ts,react,postgres,docker,linux,git,githubactions&amp;perline=6&amp;theme=light" alt="Python, PyTorch, TensorFlow, scikit-learn, FastAPI, TypeScript, React, PostgreSQL, Docker, Linux, Git, and GitHub Actions" width="320">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Ctensorflow%2Csklearn%2Cfastapi%2Cts%2Creact%2Cpostgres%2Cdocker%2Clinux%2Cgit%2Cgithubactions&amp;perline=6&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Ctensorflow%2Csklearn%2Cfastapi%2Cts%2Creact%2Cpostgres%2Cdocker%2Clinux%2Cgit%2Cgithubactions&amp;perline=6&amp;theme=light">
+  <img src="https://skillicons.dev/icons?i=python%2Cpytorch%2Ctensorflow%2Csklearn%2Cfastapi%2Cts%2Creact%2Cpostgres%2Cdocker%2Clinux%2Cgit%2Cgithubactions&amp;perline=6&amp;theme=light" alt="Python, PyTorch, TensorFlow, scikit-learn, FastAPI, TypeScript, React, PostgreSQL, Docker, Linux, Git, and GitHub Actions" width="320">
 </picture>
 
 ## GitHub activity
@@ -55,14 +55,14 @@ I build local AI systems and turn them into useful products. My work spans LLM d
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ataturhan21&amp;theme=github_dark&amp;bg_color=0d1117&amp;title_color=c8a96b&amp;text_color=e6edf3&amp;icon_color=c8a96b&amp;border_color=30363d&amp;disable_animations=true&amp;show_icons=true&amp;ring_color=c8a96b&amp;number_format=long&amp;custom_title=GitHub+Stats&amp;card_width=420">
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=ataturhan21&amp;theme=github&amp;bg_color=ffffff&amp;title_color=0d1117&amp;text_color=24292f&amp;icon_color=856323&amp;border_color=d0d7de&amp;disable_animations=true&amp;show_icons=true&amp;ring_color=856323&amp;number_format=long&amp;custom_title=GitHub+Stats&amp;card_width=420">
-  <img src="https://github-stats-extended.vercel.app/api?username=ataturhan21&amp;theme=github&amp;bg_color=ffffff&amp;title_color=0d1117&amp;text_color=24292f&amp;icon_color=856323&amp;border_color=d0d7de&amp;disable_animations=true&amp;show_icons=true&amp;ring_color=856323&amp;number_format=long&amp;custom_title=GitHub+Stats&amp;card_width=420" alt="GitHub statistics for ataturhan21: stars, commits, pull requests, issues, and repositories contributed to" width="420">
+  <img src="https://github-stats-extended.vercel.app/api?username=ataturhan21&amp;theme=github&amp;bg_color=ffffff&amp;title_color=0d1117&amp;text_color=24292f&amp;icon_color=856323&amp;border_color=d0d7de&amp;disable_animations=true&amp;show_icons=true&amp;ring_color=856323&amp;number_format=long&amp;custom_title=GitHub+Stats&amp;card_width=420" alt="GitHub statistics for ataturhan21: stars, commits, pull requests, issues, and repositories contributed to" width="410">
 </picture>
 </a>
 <a href="https://github.com/ataturhan21?tab=overview">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ataturhan21&amp;theme=default&amp;background=0d1117&amp;border=30363d&amp;stroke=30363d&amp;ring=c8a96b&amp;fire=c8a96b&amp;currStreakNum=e6edf3&amp;sideNums=e6edf3&amp;currStreakLabel=c8a96b&amp;sideLabels=e6edf3&amp;dates=9da7b3&amp;timezone=America%2FChicago&amp;disable_animations=true&amp;card_width=420">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ataturhan21&amp;theme=default&amp;background=ffffff&amp;border=d0d7de&amp;stroke=d0d7de&amp;ring=856323&amp;fire=856323&amp;currStreakNum=24292f&amp;sideNums=24292f&amp;currStreakLabel=0d1117&amp;sideLabels=24292f&amp;dates=57606a&amp;timezone=America%2FChicago&amp;disable_animations=true&amp;card_width=420">
-  <img src="https://streak-stats.demolab.com/?user=ataturhan21&amp;theme=default&amp;background=ffffff&amp;border=d0d7de&amp;stroke=d0d7de&amp;ring=856323&amp;fire=856323&amp;currStreakNum=24292f&amp;sideNums=24292f&amp;currStreakLabel=0d1117&amp;sideLabels=24292f&amp;dates=57606a&amp;timezone=America%2FChicago&amp;disable_animations=true&amp;card_width=420" alt="GitHub contribution streak, longest streak, and total contributions for ataturhan21" width="420">
+  <img src="https://streak-stats.demolab.com/?user=ataturhan21&amp;theme=default&amp;background=ffffff&amp;border=d0d7de&amp;stroke=d0d7de&amp;ring=856323&amp;fire=856323&amp;currStreakNum=24292f&amp;sideNums=24292f&amp;currStreakLabel=0d1117&amp;sideLabels=24292f&amp;dates=57606a&amp;timezone=America%2FChicago&amp;disable_animations=true&amp;card_width=420" alt="GitHub contribution streak, longest streak, and total contributions for ataturhan21" width="410">
 </picture>
 </a>
 </p>
@@ -102,9 +102,9 @@ Languages represented in my public repositories and commit history.
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=ataturhan21&amp;theme=darkhub&amp;title=Stars,Followers,Commits,PullRequest,Issues,Repositories&amp;no-bg=true&amp;no-frame=true&amp;row=2&amp;column=3&amp;margin-w=5&amp;margin-h=5">
-  <source media="(prefers-color-scheme: light)" srcset="https://trophy.ryglcloud.net/?username=ataturhan21&amp;theme=flat&amp;title=Stars,Followers,Commits,PullRequest,Issues,Repositories&amp;no-bg=true&amp;no-frame=true&amp;row=2&amp;column=3&amp;margin-w=5&amp;margin-h=5">
-  <img src="https://trophy.ryglcloud.net/?username=ataturhan21&amp;theme=flat&amp;title=Stars,Followers,Commits,PullRequest,Issues,Repositories&amp;no-bg=true&amp;no-frame=true&amp;row=2&amp;column=3&amp;margin-w=5&amp;margin-h=5" alt="GitHub trophies for stars, followers, commits, pull requests, issues, and repositories" width="420">
+  <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=ataturhan21&amp;theme=darkhub&amp;title=Stars%2CFollowers%2CCommits%2CPullRequest%2CIssues%2CRepositories&amp;no-bg=true&amp;no-frame=true&amp;row=2&amp;column=3&amp;margin-w=5&amp;margin-h=5">
+  <source media="(prefers-color-scheme: light)" srcset="https://trophy.ryglcloud.net/?username=ataturhan21&amp;theme=flat&amp;title=Stars%2CFollowers%2CCommits%2CPullRequest%2CIssues%2CRepositories&amp;no-bg=true&amp;no-frame=true&amp;row=2&amp;column=3&amp;margin-w=5&amp;margin-h=5">
+  <img src="https://trophy.ryglcloud.net/?username=ataturhan21&amp;theme=flat&amp;title=Stars%2CFollowers%2CCommits%2CPullRequest%2CIssues%2CRepositories&amp;no-bg=true&amp;no-frame=true&amp;row=2&amp;column=3&amp;margin-w=5&amp;margin-h=5" alt="GitHub trophies for stars, followers, commits, pull requests, issues, and repositories" width="420">
 </picture>
 </a>
 </p>
@@ -113,19 +113,19 @@ Languages represented in my public repositories and commit history.
 
 ## Problem solving
 
-Algorithms, data structures, and contest practice. Browse my [LeetCode solutions](https://github.com/ataturhan21/Leetcode-Solutions) and [data structures and algorithms](https://github.com/ataturhan21/DSA) repositories.
+Algorithms, data structures, and contest practice. Browse my [LeetCode solutions](https://github.com/ataturhan21/Leetcode-Solutions) and [DSA](https://github.com/ataturhan21/DSA), my fork of the [CodeChefMUST/Algorithms](https://github.com/CodeChefMUST/Algorithms) collection I contributed to.
 
 <p align="center">
 <a href="https://leetcode.com/u/ataturhan/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/ataturhan?theme=dark&amp;colors=0d1117,30363d,e6edf3,9da7b3,c8a96b,3fb950,d29922,f85149&amp;font=Inter&amp;ext=contest&amp;animation=false&amp;border=0">
-  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/ataturhan?theme=light&amp;colors=ffffff,d0d7de,24292f,57606a,856323,1a7f37,9a6700,cf222e&amp;font=Inter&amp;ext=contest&amp;animation=false&amp;border=0">
-  <img src="https://leetcard.jacoblin.cool/ataturhan?theme=light&amp;colors=ffffff,d0d7de,24292f,57606a,856323,1a7f37,9a6700,cf222e&amp;font=Inter&amp;ext=contest&amp;animation=false&amp;border=0" alt="LeetCode solved-problem counts, contest rating, and contest history for ataturhan" width="500">
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/ataturhan?theme=dark&amp;colors=0d1117%2C30363d%2Ce6edf3%2C9da7b3%2Cc8a96b%2C3fb950%2Cd29922%2Cf85149&amp;font=Inter&amp;ext=contest&amp;animation=false&amp;border=0">
+  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/ataturhan?theme=light&amp;colors=ffffff%2Cd0d7de%2C24292f%2C57606a%2C856323%2C1a7f37%2C9a6700%2Ccf222e&amp;font=Inter&amp;ext=contest&amp;animation=false&amp;border=0">
+  <img src="https://leetcard.jacoblin.cool/ataturhan?theme=light&amp;colors=ffffff%2Cd0d7de%2C24292f%2C57606a%2C856323%2C1a7f37%2C9a6700%2Ccf222e&amp;font=Inter&amp;ext=contest&amp;animation=false&amp;border=0" alt="LeetCode solved-problem counts, contest rating, and contest history for ataturhan" width="500">
 </picture>
 </a>
 </p>
 
-[LeetCode](https://leetcode.com/u/ataturhan/) · [HackerRank](https://www.hackerrank.com/ataturhan) · [Kaggle](https://www.kaggle.com/ataturhan)
+[LeetCode](https://leetcode.com/u/ataturhan/) · [HackerRank](https://www.hackerrank.com/profile/ataturhan) · [Kaggle](https://www.kaggle.com/ataturhan)
 
 ## Background
 
