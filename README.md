@@ -113,7 +113,7 @@ Languages represented in my public repositories and commit history.
 
 ## Problem solving
 
-Algorithms, data structures, and contest practice. Browse my [LeetCode solutions](https://github.com/ataturhan21/Leetcode-Solutions) and [data structures and algorithms](https://github.com/ataturhan21/DSA) repositories.
+Algorithms, data structures, and contest practice. Browse my [LeetCode solutions](https://github.com/ataturhan21/Leetcode-Solutions) and [DSA](https://github.com/ataturhan21/DSA), my fork of the [CodeChefMUST/Algorithms](https://github.com/CodeChefMUST/Algorithms) collection I contributed to.
 
 <p align="center">
 <a href="https://leetcode.com/u/ataturhan/">
