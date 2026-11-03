@@ -21,7 +21,7 @@ I build local AI systems and turn them into useful products. My work spans LLM d
 ## What I'm building
 
 - **At HP:** local AI applications, model deployment, evaluation, and engineering leadership. Explore [Aware Care](https://github.com/ataturhan21/HP-Edge-AI-Demo-Aware-Care), a public demonstration of local inference on HP ZGX.
-- **At Solarity AI:** AI-powered self-improvement apps and software for the teams building them. Explore our [mobile apps](https://solarityai.com/apps/), [engineering, management, and marketing products](https://solarityai.com/platform/), and [public company resources](https://github.com/Solarity-AI/public-resources).
+- **At Solarity AI:** AI-powered self-improvement apps for iOS and Android, plus SaaS tools that help teams engineer, manage, and market mobile products. Explore our [mobile apps](https://solarityai.com/apps/), [SaaS products](https://solarityai.com/platform/), and [public company resources](https://github.com/Solarity-AI/public-resources).
 
 ## Selected engineering work
 
