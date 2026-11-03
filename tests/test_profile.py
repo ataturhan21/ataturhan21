@@ -96,6 +96,16 @@ class ProfileRenderingTests(unittest.TestCase):
             with self.subTest(url=url):
                 self.assertIn(f"]({url})", text)
 
+    def test_skill_icons_match_in_every_theme(self):
+        # The dark, light and fallback images must show the same icons, and the alt text names each one.
+        text = (ROOT / "README.md").read_text(encoding="utf-8")
+        icon_lists = re.findall(r"skillicons\.dev/icons\?i=([^&\"]+)", text)
+        self.assertEqual(len(icon_lists), 3)
+        self.assertEqual(len(set(icon_lists)), 1)
+        icons = icon_lists[0].split("%2C")
+        alt = re.search(r'<img src="https://skillicons\.dev[^>]*alt="([^"]+)"', text)[1]
+        self.assertEqual(len(icons), len(alt.replace(", and ", ", ").split(", ")))
+
     def test_section_links_target_profile_page_anchors(self):
         # The profile page only scrolls to the user-content- ids GitHub gives headings.
         text = (ROOT / "README.md").read_text(encoding="utf-8")

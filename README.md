@@ -37,14 +37,17 @@ I build local AI systems and turn them into useful products. My work spans LLM d
 
 ## Technical focus
 
-- **AI & ML:** Python, PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain, LangGraph, MLflow.
-- **Applications & data:** FastAPI, TypeScript, React, SQL, PostgreSQL.
-- **Delivery:** Linux, Docker, Git, GitHub Actions, automated testing, and performance evaluation.
+- **Languages:** Python, TypeScript, JavaScript, Java, SQL, and Bash.
+- **Machine learning:** PyTorch, TensorFlow, Keras, scikit-learn, OpenCV, and MLflow.
+- **LLMs & agents:** Hugging Face, LangChain, LangGraph, ChromaDB, and the OpenAI API.
+- **Data & analysis:** pandas, NumPy, SciPy, Matplotlib, Plotly, and Jupyter.
+- **Applications & databases:** FastAPI, Flask, Spring Boot, React, Node.js, PostgreSQL, MySQL, MongoDB, and Apache Kafka.
+- **Cloud & delivery:** Docker, Linux, Git, GitHub Actions, Microsoft Azure, Jenkins, Prometheus, and Grafana, with automated testing and performance evaluation.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Ctensorflow%2Csklearn%2Cfastapi%2Cts%2Creact%2Cpostgres%2Cdocker%2Clinux%2Cgit%2Cgithubactions&amp;perline=6&amp;theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Ctensorflow%2Csklearn%2Cfastapi%2Cts%2Creact%2Cpostgres%2Cdocker%2Clinux%2Cgit%2Cgithubactions&amp;perline=6&amp;theme=light">
-  <img src="https://skillicons.dev/icons?i=python%2Cpytorch%2Ctensorflow%2Csklearn%2Cfastapi%2Cts%2Creact%2Cpostgres%2Cdocker%2Clinux%2Cgit%2Cgithubactions&amp;perline=6&amp;theme=light" alt="Python, PyTorch, TensorFlow, scikit-learn, FastAPI, TypeScript, React, PostgreSQL, Docker, Linux, Git, and GitHub Actions" width="320">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cjava%2Cbash%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Cfastapi%2Cflask%2Cspring%2Creact%2Cnodejs%2Cpostgres%2Cmysql%2Cmongodb%2Ckafka%2Cdocker%2Clinux%2Cgit%2Cgithubactions%2Cazure%2Cjenkins%2Cprometheus%2Cgrafana&amp;perline=9&amp;theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cjava%2Cbash%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Cfastapi%2Cflask%2Cspring%2Creact%2Cnodejs%2Cpostgres%2Cmysql%2Cmongodb%2Ckafka%2Cdocker%2Clinux%2Cgit%2Cgithubactions%2Cazure%2Cjenkins%2Cprometheus%2Cgrafana&amp;perline=9&amp;theme=light">
+  <img src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cjava%2Cbash%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Cfastapi%2Cflask%2Cspring%2Creact%2Cnodejs%2Cpostgres%2Cmysql%2Cmongodb%2Ckafka%2Cdocker%2Clinux%2Cgit%2Cgithubactions%2Cazure%2Cjenkins%2Cprometheus%2Cgrafana&amp;perline=9&amp;theme=light" alt="Python, TypeScript, JavaScript, Java, Bash, PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI, Flask, Spring Boot, React, Node.js, PostgreSQL, MySQL, MongoDB, Apache Kafka, Docker, Linux, Git, GitHub Actions, Microsoft Azure, Jenkins, Prometheus, and Grafana" width="480">
 </picture>
 
 ## GitHub activity
