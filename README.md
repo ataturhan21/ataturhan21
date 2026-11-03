@@ -1,5 +1,5 @@
-<a href="https://solarityai.com/">
-  <img src="./assets/profile-header.svg" alt="Build with intelligence. Lead with ownership." width="100%">
+<a href="https://ataturhan21.github.io/">
+  <img src="./assets/profile-banner.svg" alt="Ata Turhan: AI engineering and product development. Build with intelligence. Lead with ownership." width="100%">
 </a>
 
 # Ata Turhan
@@ -9,7 +9,7 @@ Dallas, Texas, United States
 
 I build local AI systems and turn them into useful products. My work spans LLM deployment, retrieval and agents, backend engineering, evaluation, and engineering leadership.
 
-**[Solarity AI](https://solarityai.com/) · [LinkedIn](https://www.linkedin.com/in/ataturhan21/) · [Writing](https://medium.com/@ataturhan21) · [Email](mailto:ataturhan21@gmail.com)**
+**[Portfolio](https://ataturhan21.github.io/) · [ataturhan.com](https://ataturhan.com/) · [Solarity AI](https://solarityai.com/) · [LinkedIn](https://www.linkedin.com/in/ataturhan21/) · [Writing](https://medium.com/@ataturhan21) · [Email](mailto:ataturhan21@gmail.com)**
 
 <p>
   <a href="https://github.com/ataturhan21?tab=followers"><img src="https://img.shields.io/github/followers/ataturhan21?label=Followers&amp;style=flat-square&amp;color=856323&amp;logo=github" alt="GitHub followers"></a>
@@ -52,14 +52,14 @@ I build local AI systems and turn them into useful products. My work spans LLM d
 <p align="center">
 <a href="https://github.com/ataturhan21?tab=repositories">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ataturhan21&amp;theme=github_dark&amp;bg_color=0d1117&amp;title_color=c8a96b&amp;text_color=e6edf3&amp;icon_color=c8a96b&amp;border_color=30363d&amp;disable_animations=true&amp;show_icons=true&amp;ring_color=c8a96b&amp;number_format=long&amp;custom_title=GitHub+Stats&amp;card_width=420">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ataturhan21&amp;theme=github_dark&amp;bg_color=0d1117&amp;title_color=e9b56a&amp;text_color=e6edf3&amp;icon_color=e9b56a&amp;border_color=30363d&amp;disable_animations=true&amp;show_icons=true&amp;ring_color=e9b56a&amp;number_format=long&amp;custom_title=GitHub+Stats&amp;card_width=420">
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=ataturhan21&amp;theme=github&amp;bg_color=ffffff&amp;title_color=0d1117&amp;text_color=24292f&amp;icon_color=856323&amp;border_color=d0d7de&amp;disable_animations=true&amp;show_icons=true&amp;ring_color=856323&amp;number_format=long&amp;custom_title=GitHub+Stats&amp;card_width=420">
   <img src="https://github-stats-extended.vercel.app/api?username=ataturhan21&amp;theme=github&amp;bg_color=ffffff&amp;title_color=0d1117&amp;text_color=24292f&amp;icon_color=856323&amp;border_color=d0d7de&amp;disable_animations=true&amp;show_icons=true&amp;ring_color=856323&amp;number_format=long&amp;custom_title=GitHub+Stats&amp;card_width=420" alt="GitHub statistics for ataturhan21: stars, commits, pull requests, issues, and repositories contributed to" width="410">
 </picture>
 </a>
 <a href="https://github.com/ataturhan21?tab=overview">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ataturhan21&amp;theme=default&amp;background=0d1117&amp;border=30363d&amp;stroke=30363d&amp;ring=c8a96b&amp;fire=c8a96b&amp;currStreakNum=e6edf3&amp;sideNums=e6edf3&amp;currStreakLabel=c8a96b&amp;sideLabels=e6edf3&amp;dates=9da7b3&amp;timezone=America%2FChicago&amp;disable_animations=true&amp;card_width=420">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ataturhan21&amp;theme=default&amp;background=0d1117&amp;border=30363d&amp;stroke=30363d&amp;ring=e9b56a&amp;fire=e9b56a&amp;currStreakNum=e6edf3&amp;sideNums=e6edf3&amp;currStreakLabel=e9b56a&amp;sideLabels=e6edf3&amp;dates=9da7b3&amp;timezone=America%2FChicago&amp;disable_animations=true&amp;card_width=420">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ataturhan21&amp;theme=default&amp;background=ffffff&amp;border=d0d7de&amp;stroke=d0d7de&amp;ring=856323&amp;fire=856323&amp;currStreakNum=24292f&amp;sideNums=24292f&amp;currStreakLabel=0d1117&amp;sideLabels=24292f&amp;dates=57606a&amp;timezone=America%2FChicago&amp;disable_animations=true&amp;card_width=420">
   <img src="https://streak-stats.demolab.com/?user=ataturhan21&amp;theme=default&amp;background=ffffff&amp;border=d0d7de&amp;stroke=d0d7de&amp;ring=856323&amp;fire=856323&amp;currStreakNum=24292f&amp;sideNums=24292f&amp;currStreakLabel=0d1117&amp;sideLabels=24292f&amp;dates=57606a&amp;timezone=America%2FChicago&amp;disable_animations=true&amp;card_width=420" alt="GitHub contribution streak, longest streak, and total contributions for ataturhan21" width="410">
 </picture>
@@ -69,7 +69,7 @@ I build local AI systems and turn them into useful products. My work spans LLM d
 <p align="center">
 <a href="https://github.com/ataturhan21?tab=overview">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ataturhan21&amp;theme=github_dark&amp;name=Ata+Turhan&amp;bg_color=0d1117&amp;title_color=c8a96b&amp;text_color=e6edf3&amp;border_color=30363d&amp;chart_color=c8a96b">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ataturhan21&amp;theme=github_dark&amp;name=Ata+Turhan&amp;bg_color=0d1117&amp;title_color=e9b56a&amp;text_color=e6edf3&amp;border_color=30363d&amp;chart_color=e9b56a">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ataturhan21&amp;theme=github&amp;name=Ata+Turhan&amp;bg_color=ffffff&amp;title_color=0d1117&amp;text_color=24292f&amp;border_color=d0d7de&amp;chart_color=856323">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ataturhan21&amp;theme=github&amp;name=Ata+Turhan&amp;bg_color=ffffff&amp;title_color=0d1117&amp;text_color=24292f&amp;border_color=d0d7de&amp;chart_color=856323" alt="GitHub profile summary and contribution activity over the last year for Ata Turhan" width="840">
 </picture>
@@ -84,14 +84,14 @@ Languages represented in my public repositories and commit history.
 <p align="center">
 <a href="https://github.com/ataturhan21?tab=repositories">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ataturhan21&amp;theme=github_dark&amp;bg_color=0d1117&amp;title_color=c8a96b&amp;text_color=e6edf3&amp;border_color=30363d">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ataturhan21&amp;theme=github_dark&amp;bg_color=0d1117&amp;title_color=e9b56a&amp;text_color=e6edf3&amp;border_color=30363d">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ataturhan21&amp;theme=github&amp;bg_color=ffffff&amp;title_color=0d1117&amp;text_color=24292f&amp;border_color=d0d7de">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ataturhan21&amp;theme=github&amp;bg_color=ffffff&amp;title_color=0d1117&amp;text_color=24292f&amp;border_color=d0d7de" alt="Most-used languages across public repositories" width="340">
 </picture>
 </a>
 <a href="https://github.com/ataturhan21?tab=overview">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ataturhan21&amp;theme=github_dark&amp;bg_color=0d1117&amp;title_color=c8a96b&amp;text_color=e6edf3&amp;border_color=30363d">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ataturhan21&amp;theme=github_dark&amp;bg_color=0d1117&amp;title_color=e9b56a&amp;text_color=e6edf3&amp;border_color=30363d">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ataturhan21&amp;theme=github&amp;bg_color=ffffff&amp;title_color=0d1117&amp;text_color=24292f&amp;border_color=d0d7de">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ataturhan21&amp;theme=github&amp;bg_color=ffffff&amp;title_color=0d1117&amp;text_color=24292f&amp;border_color=d0d7de" alt="Most-used languages across commits" width="340">
 </picture>
@@ -117,7 +117,7 @@ Algorithms, data structures, and contest practice. Browse my [LeetCode solutions
 <p align="center">
 <a href="https://leetcode.com/u/ataturhan/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/ataturhan?theme=dark&amp;colors=0d1117%2C30363d%2Ce6edf3%2C9da7b3%2Cc8a96b%2C3fb950%2Cd29922%2Cf85149&amp;font=Inter&amp;ext=contest&amp;animation=false&amp;border=0">
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/ataturhan?theme=dark&amp;colors=0d1117%2C30363d%2Ce6edf3%2C9da7b3%2Ce9b56a%2C3fb950%2Cd29922%2Cf85149&amp;font=Inter&amp;ext=contest&amp;animation=false&amp;border=0">
   <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/ataturhan?theme=light&amp;colors=ffffff%2Cd0d7de%2C24292f%2C57606a%2C856323%2C1a7f37%2C9a6700%2Ccf222e&amp;font=Inter&amp;ext=contest&amp;animation=false&amp;border=0">
   <img src="https://leetcard.jacoblin.cool/ataturhan?theme=light&amp;colors=ffffff%2Cd0d7de%2C24292f%2C57606a%2C856323%2C1a7f37%2C9a6700%2Ccf222e&amp;font=Inter&amp;ext=contest&amp;animation=false&amp;border=0" alt="LeetCode solved-problem counts, contest rating, and contest history for ataturhan" width="500">
 </picture>
