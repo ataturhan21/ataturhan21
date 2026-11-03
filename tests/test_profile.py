@@ -77,6 +77,25 @@ class ProfileRenderingTests(unittest.TestCase):
                 with self.subTest(file=name, srcset=srcset[:60]):
                     self.assertNotIn(",", srcset)
 
+    def test_local_images_exist(self):
+        for name in ("README.md", "PROJECTS.md"):
+            text = (ROOT / name).read_text(encoding="utf-8")
+            for src in re.findall(r'src="\./([^"]+)"', text):
+                with self.subTest(file=name, src=src):
+                    self.assertTrue((ROOT / src).is_file())
+
+    def test_banner_needs_no_fetches_or_fonts(self):
+        # GitHub shows the banner as an image, which can't load fonts or other files.
+        banner = (ROOT / "assets/profile-banner.svg").read_text(encoding="utf-8")
+        self.assertNotIn("<text", banner)
+        self.assertNotRegex(banner, r'href="(?!data:|#)')
+
+    def test_links_to_the_personal_sites(self):
+        text = (ROOT / "README.md").read_text(encoding="utf-8")
+        for url in ("https://ataturhan21.github.io/", "https://ataturhan.com/", "https://solarityai.com/"):
+            with self.subTest(url=url):
+                self.assertIn(f"]({url})", text)
+
     def test_section_links_target_profile_page_anchors(self):
         # The profile page only scrolls to the user-content- ids GitHub gives headings.
         text = (ROOT / "README.md").read_text(encoding="utf-8")
