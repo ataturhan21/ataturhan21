@@ -39,6 +39,7 @@ Explore my public repositories by area. Each repository's README is the starting
 | [DSA](https://github.com/ataturhan21/DSA) | Data structures and algorithms; fork of [CodeChefMUST/Algorithms](https://github.com/CodeChefMUST/Algorithms), which I contributed to |
 | [LeetCode Solutions](https://github.com/ataturhan21/Leetcode-Solutions) | Python, SQL, and JavaScript problem solutions |
 | [Bank Application](https://github.com/ataturhan21/Bank-Application) | Java banking application |
+| [Enter Key Control](https://github.com/ataturhan21/enter-key-control) | Chrome extension: Enter adds a new line in AI chats; Ctrl/⌘+Enter sends |
 | [Vita](https://github.com/ataturhan21/Vita) | Media and text toolbox |
 | [TicTacToe](https://github.com/ataturhan21/TicTacToe) | Java desktop game |
 | [Memory Game](https://github.com/ataturhan21/Memory-Game) | Java desktop game |
