@@ -47,7 +47,7 @@ Explore my public repositories by area. Each repository's README is the starting
 
 | Repository | Focus |
 | --- | --- |
-| [Personal website](https://github.com/ataturhan21/ata-turhan.github.io) | Portfolio website source |
+| [Personal website](https://github.com/ataturhan21/ata-turhan.github.io) | Portfolio website source; live at [ataturhan21.github.io/ata-turhan.github.io](https://ataturhan21.github.io/ata-turhan.github.io/) |
 | [Community Website](https://github.com/ataturhan21/Community_Website) | Community website source; fork of the community's [Community_Website](https://github.com/TOBB-ETU-CS-Community/Community_Website) |
 | [News Scraping](https://github.com/ataturhan21/News-Scraping) | News collection and processing |
 | [Insta Bot](https://github.com/ataturhan21/Insta-Bot) | Instagram automation project; fork of the community's [Social-Master](https://github.com/TOBB-ETU-CS-Community/Social-Master) |
